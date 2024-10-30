@@ -1,0 +1,737 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: callsheet.php:736 callsheet-admin-add-new.php:72
+msgid "Actor"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:737 callsheet-admin-add-new.php:75
+msgid "Actress"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2022 callsheet-admin-edit.php:1801
+#: callsheet-admin-edit.php:1894
+msgid "Casting"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2038 callsheet-admin-edit.php:1803
+#: callsheet-admin-edit.php:1909
+msgid "Channel"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2168 callsheet-admin-edit.php:1798
+#: callsheet-admin-edit.php:1868
+msgid "Description"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:738 callsheet.php:2184 callsheet-admin-edit.php:1800
+#: callsheet-admin-edit.php:1884 callsheet-admin-add-new.php:78
+msgid "Director"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:725
+msgid "First name"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:990 callsheet.php:2127 callsheet-admin-edit.php:681
+#: callsheet-admin-edit.php:1827
+msgid "From"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:729
+msgid "Last name"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2319
+msgid "Mobile"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2488
+msgid "Next"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2318
+msgid "Overview"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2417
+msgid "Please set Wistia API value."
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2484
+msgid "Previous"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2029 callsheet-admin-edit.php:1802
+#: callsheet-admin-edit.php:1901
+msgid "Production"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2317
+msgid "Profile"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2177 callsheet-admin-edit.php:1799
+#: callsheet-admin-edit.php:1877
+msgid "Role"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:733
+msgid "Slug"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:2193 callsheet-admin-import-export.php:75
+#: callsheet-admin-import-export.php:104 callsheet-admin-edit.php:271
+#: callsheet-admin-edit.php:1120 callsheet-admin-edit.php:1212
+msgid "Theater"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:1135 callsheet.php:1306 callsheet.php:1477 callsheet.php:1647
+#: callsheet.php:1819 callsheet.php:1990 callsheet.php:2161
+#: callsheet-admin-edit.php:836 callsheet-admin-edit.php:1008
+#: callsheet-admin-edit.php:1116 callsheet-admin-edit.php:1178
+#: callsheet-admin-edit.php:1338 callsheet-admin-edit.php:1510
+#: callsheet-admin-edit.php:1684 callsheet-admin-edit.php:1861
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: callsheet.php:1007 callsheet.php:2143 callsheet-admin-edit.php:697
+#: callsheet-admin-edit.php:1843
+msgid "To"
+msgstr ""
+
+#. Text in echo
+#: callsheet-values.php:122 callsheet-admin-setting.php:76
+#: callsheet-admin-setting.php:106 callsheet-admin-import-export.php:85
+#: callsheet-admin-api.php:32
+msgid "Submit"
+msgstr ""
+
+#. Text in echo
+#: callsheet-values.php:20
+msgid "Values"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-setting.php:50
+msgid "API Detail"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-setting.php:103
+msgid "API Password"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-setting.php:68
+msgid "Choose for Import"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-setting.php:42 callsheet-admin-import-export.php:97
+msgid "Export"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-setting.php:91 callsheet-admin-import-export.php:114
+msgid "Export your data"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-setting.php:34 callsheet-admin-import-export.php:60
+msgid "Import"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-setting.php:77 callsheet-admin-setting.php:107
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-setting.php:26
+msgid "Setting"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-import-export.php:106 callsheet-admin-edit.php:273
+#: callsheet-admin-edit.php:1446
+msgid "Audio"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-import-export.php:101 callsheet-admin-edit.php:268
+#: callsheet-admin-edit.php:658
+msgid "Awards"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-import-export.php:105 callsheet-admin-edit.php:272
+#: callsheet-admin-edit.php:1274
+msgid "Commercial"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-import-export.php:100 callsheet-admin-edit.php:267
+#: callsheet-admin-edit.php:544
+msgid "Education"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-import-export.php:102 callsheet-admin-edit.php:772
+msgid "Film"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-import-export.php:107 callsheet-admin-edit.php:274
+#: callsheet-admin-edit.php:1620
+msgid "Internet"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-import-export.php:108 callsheet-admin-edit.php:275
+#: callsheet-admin-edit.php:1797
+msgid "Other"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-import-export.php:103 callsheet-admin-edit.php:270
+#: callsheet-admin-edit.php:944
+msgid "TV"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-import-export.php:66
+msgid "Upload File"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:316
+msgid "(Federal) State"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:323
+msgid "1st residence"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2113 callsheet-admin-display.php:47
+msgid "Action"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2182
+msgid "Add New Photos"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:649 callsheet-admin-edit.php:935
+#: callsheet-admin-edit.php:1107 callsheet-admin-edit.php:1265
+#: callsheet-admin-edit.php:1437 callsheet-admin-edit.php:1611
+#: callsheet-admin-edit.php:1788
+msgid "Add New Record"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2206
+msgid "Add New Videos"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:561
+msgid "Add new Record for Education"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:795
+msgid "Add new Record for Movie"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2129
+msgid "Add new Record for Press"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1469
+msgid "Add new Record for audio"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:675
+msgid "Add new Record for awards"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1643
+msgid "Add new Record for internet"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1820
+msgid "Add new Record for other"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1137
+msgid "Add new Record for theater"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:967
+msgid "Add new Record for tv"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:513
+msgid "Agencies"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:266
+msgid "Basic Information"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2145 callsheet-admin-edit.php:2169
+#: callsheet-admin-edit.php:2295
+msgid "Close"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:395
+msgid "Confection size"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:448
+msgid "Dancing"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:292
+msgid "Day"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:411
+msgid "Dialects / accents"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1587
+msgid "Edit Record for Audio"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:739
+msgid "Edit Record for Awards"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1415
+msgid "Edit Record for Commercial"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:625
+msgid "Edit Record for Education"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1085
+msgid "Edit Record for Film"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1761
+msgid "Edit Record for Internet"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1938
+msgid "Edit Record for Other"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2161
+msgid "Edit Record for Press"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1241
+msgid "Edit Record for theater"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:339
+msgid "Ethnic appearance"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:364
+msgid "Eye colour"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1967
+msgid "Facebook"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2038
+msgid "Flickr"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1795
+msgid "From (Year/Month)"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:494
+msgid "Genre"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2205
+msgid "Get Video From Wistia"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2016
+msgid "Google Plus"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:348
+msgid "Hair colour"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:354
+msgid "Hair length"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:380
+msgid "Height"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2094
+msgid "Homepage"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1974
+msgid "Instagram"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2052
+msgid "Kik"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:488
+msgid "Language(s)"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:457
+msgid "License"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2010
+msgid "LinkedIn"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2072
+msgid "Medium"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:293
+msgid "Month"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:269
+msgid "Movie"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:433
+msgid "Musical instrument"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2086
+msgid "Musical.ly"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:307
+msgid "Nationality"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2066
+msgid "Periscope"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:278
+msgid "Photos"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2002
+msgid "Pinterest"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:297
+msgid "Place of Birth"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:333
+msgid "Place of action"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:276 callsheet-admin-edit.php:2112
+msgid "Press"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:463
+msgid "Professional union"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2030
+msgid "Reddit"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:608 callsheet-admin-edit.php:632
+#: callsheet-admin-edit.php:722 callsheet-admin-edit.php:746
+#: callsheet-admin-edit.php:896 callsheet-admin-edit.php:920
+#: callsheet-admin-edit.php:1068 callsheet-admin-edit.php:1092
+#: callsheet-admin-edit.php:1224 callsheet-admin-edit.php:1248
+#: callsheet-admin-edit.php:1398 callsheet-admin-edit.php:1422
+#: callsheet-admin-edit.php:1570 callsheet-admin-edit.php:1594
+#: callsheet-admin-edit.php:1744 callsheet-admin-edit.php:1768
+#: callsheet-admin-edit.php:1921 callsheet-admin-edit.php:1945
+#: callsheet-admin-edit.php:2144 callsheet-admin-edit.php:2168
+#: callsheet-admin-edit.php:2274
+msgid "Save"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:502
+msgid "Short text"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2058
+msgid "Shots"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:417
+msgid "Singing"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1988
+msgid "Snapchat"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:277
+msgid "Social"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2080
+msgid "SoundCloud"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:472
+msgid "Special skills"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:442
+msgid "Sports"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2111
+msgid "Sr No"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:371
+msgid "Stature"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2044
+msgid "Swarm By Foursquare"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:943
+msgid "To (Year/Month"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1796
+msgid "To (Year/Month)"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2024
+msgid "Tumblr"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1996
+msgid "Twitter"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2204
+msgid "Type Html Code"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:279
+msgid "Video"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2268
+msgid "Video Code"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:426
+msgid "Voice range"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:386
+msgid "Weight"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:2285
+msgid "Wistia Video List"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:294
+msgid "Year"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:288
+msgid "Year of birth"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-edit.php:1982
+msgid "YouTube"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-display.php:39
+msgid "All client"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-display.php:39
+msgid "All clients"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-display.php:43
+msgid "Client ID"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-display.php:44 callsheet-admin-add-new.php:55
+msgid "First Name"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-display.php:45 callsheet-admin-add-new.php:61
+msgid "Last Name"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-display.php:46 callsheet-admin-add-new.php:69
+msgid "Type"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-api.php:17
+msgid "API detail"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-add-new.php:91
+msgid "Add Client"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-add-new.php:49
+msgid "Add New Client"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-add-new.php:81
+msgid "Cinematographer"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-add-new.php:50
+msgid "Submit Below Forms For Adding New Client"
+msgstr ""
+
+#. Text in echo
+#: callsheet-admin-add-new.php:84
+msgid "Writer"
+msgstr ""
